@@ -1,4 +1,4 @@
-👋 Hi, I’m @aranyac24
+👋 Hi, I’m @aranyac
 
 PhD Candidate, McGill University Department of Economics.
 
