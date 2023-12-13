@@ -1,8 +1,8 @@
 👋 Hi, I’m @aranyac
 
-Assistant Professor of Economics and Public Policy at the Amrut Mody School of Management, Ahmedabad University. I am a development economist studying the problem of low technology adoption through the lens of information friction. I have finished my degree requirements for Ph.D. in Economics from McGill University.
+I am an Assistant Professor of Economics and Public Policy at the Amrut Mody School of Management at Ahmedabad University. I received my PhD in Economics from McGill University in 2023. 
 
-Research Interests: Development Economics, Information Economics, Applied Microeconomics.
+My research interests lie in the areas of Development Economics, Information Economics, and Applied Microeconomics. More specifically, I study the adoption of risk management and mitigation strategies in developing countries, focusing primarily on the role of networks, social learning, and learning from experience.
 
 <!---
 aranyac24/aranyac24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
